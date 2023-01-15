@@ -29,15 +29,18 @@ End of User input
 1. The robot makes it way around the field to either the high, low, or middle range position to begin shooting
     - makes use of two driving motors + pivot ball
     - makes use of motor encoder
+
 ![image](https://user-images.githubusercontent.com/75193860/212554903-1cb03352-de08-47b8-89b3-621f86287f1b.png)
 
 2. Prior to shooting, the robot takes approximately 3 seconds to gain flywheel momentum
     - spins up to 1300 rpm by using two large EV3 motors attached to a 8:1 two level gear system 
     - large motors spin at approximately 170 rpm
+
 ![image](https://user-images.githubusercontent.com/75193860/212555020-782c4857-9470-475f-982a-52e4f754d575.png)
 
 3. Once the flywheels are turned onto max speed, the robot rotates a random angle between -30 and 30 degrees
     - driving motors are turned at equal speeds in opposite directions
+
 ![image](https://user-images.githubusercontent.com/75193860/212554938-fea07455-9488-4bc5-8f57-08bc65f8d601.png)
 
 4. The conveyor belt then moves the balls towards the flywheels a preset distance
