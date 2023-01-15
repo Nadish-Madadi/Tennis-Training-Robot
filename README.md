@@ -1,7 +1,6 @@
 # Tennis-Training-Robot
 
 ## Initial Startup Procedure:
-----
 1. The user inputs the number of rounds on the LEGO EV3 brick interface
 -   makes use of buttons on brick
 2. The robot presents an option to train with high balls, low balls, or middle ball ranges
@@ -14,7 +13,6 @@
 - End of User input
 
 ## During the Round
-----
 1. The robot makes it way around the field to either the high, low, or middle range position to begin shooting
 -   makes use of two driving motors + pivot ball
 -   makes use of motor encoder
