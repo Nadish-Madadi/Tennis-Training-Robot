@@ -13,10 +13,12 @@
 3. Present the balls under the color sensor and wait for the conveyor to intake the balls
     - color sensor waits to detect yellow and any other colour will not move the conveyor belt
     - intaking is done via a large EV3 motor at very slow speed to prioritize input precision
+
 ![image](https://user-images.githubusercontent.com/75193860/212555743-ee1d9c84-a0dc-4323-ae6f-93a187ab773a.png)
 
 4. Balls will be intaked a preset distance to store up to 3 balls within the conveyor belt
     - makes use of motor encoder value
+
 ![image](https://user-images.githubusercontent.com/75193860/212555701-ce10a221-3e5e-4bd0-9b87-af7fc72431d2.png)
 
 
