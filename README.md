@@ -8,7 +8,7 @@
     * makes use of buttons on brick
 2. The robot presents an option to train with high balls, low balls, or middle ball ranges
 3. Present the balls under the color sensor and wait for the conveyor to intake the balls
-  - color sensor waits to detect yellow and any other colour will not move the conveyor belt
+    - color sensor waits to detect yellow and any other colour will not move the conveyor belt
   - intaking is done via a large EV3 motor at very slow speed to prioritize input precision
 4. Balls will be intaked a preset distance to store up to 3 balls within the conveyor belt
   - makes use of motor encoder value
