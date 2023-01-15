@@ -1,8 +1,11 @@
 # Tennis-Training-Robot
 
+![image](https://user-images.githubusercontent.com/75193860/212554545-9dc15de7-9da3-4b1b-ae4e-dd762f87fa13.png)
+
+
 ## Initial Startup Procedure:
 1. The user inputs the number of rounds on the LEGO EV3 brick interface
-  - makes use of buttons on brick
+  * makes use of buttons on brick
 2. The robot presents an option to train with high balls, low balls, or middle ball ranges
 3. Present the balls under the color sensor and wait for the conveyor to intake the balls
   - color sensor waits to detect yellow and any other colour will not move the conveyor belt
