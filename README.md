@@ -1,6 +1,6 @@
 # Tennis-Training-Robot
 
-- [Project Report]([http://www.google.fr/](https://drive.google.com/file/d/1H3h_-RzN2ie_37DHXsqcbW-B7NLGFs5c/view?usp=share_link) "Named link title")
+[Project Report](https://drive.google.com/file/d/1H3h_-RzN2ie_37DHXsqcbW-B7NLGFs5c/view?usp=share_link)
 
 ![image](https://user-images.githubusercontent.com/75193860/212554815-faf92921-23ce-4367-a0bc-0fbeeb7cf6cf.png)
 
