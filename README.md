@@ -13,11 +13,11 @@
 3. Present the balls under the color sensor and wait for the conveyor to intake the balls
     - color sensor waits to detect yellow and any other colour will not move the conveyor belt
     - intaking is done via a large EV3 motor at very slow speed to prioritize input precision
-    - ![image](https://user-images.githubusercontent.com/75193860/212555743-ee1d9c84-a0dc-4323-ae6f-93a187ab773a.png)
+![image](https://user-images.githubusercontent.com/75193860/212555743-ee1d9c84-a0dc-4323-ae6f-93a187ab773a.png)
 
 4. Balls will be intaked a preset distance to store up to 3 balls within the conveyor belt
     - makes use of motor encoder value
-    - ![image](https://user-images.githubusercontent.com/75193860/212555701-ce10a221-3e5e-4bd0-9b87-af7fc72431d2.png)
+![image](https://user-images.githubusercontent.com/75193860/212555701-ce10a221-3e5e-4bd0-9b87-af7fc72431d2.png)
 
 
 End of User input
@@ -27,16 +27,16 @@ End of User input
 1. The robot makes it way around the field to either the high, low, or middle range position to begin shooting
     - makes use of two driving motors + pivot ball
     - makes use of motor encoder
-    - ![image](https://user-images.githubusercontent.com/75193860/212554903-1cb03352-de08-47b8-89b3-621f86287f1b.png)
+![image](https://user-images.githubusercontent.com/75193860/212554903-1cb03352-de08-47b8-89b3-621f86287f1b.png)
 
 2. Prior to shooting, the robot takes approximately 3 seconds to gain flywheel momentum
     - spins up to 1300 rpm by using two large EV3 motors attached to a 8:1 two level gear system 
     - large motors spin at approximately 170 rpm
-    - ![image](https://user-images.githubusercontent.com/75193860/212555020-782c4857-9470-475f-982a-52e4f754d575.png)
+![image](https://user-images.githubusercontent.com/75193860/212555020-782c4857-9470-475f-982a-52e4f754d575.png)
 
 3. Once the flywheels are turned onto max speed, the robot rotates a random angle between -30 and 30 degrees
     - driving motors are turned at equal speeds in opposite directions
-    - ![image](https://user-images.githubusercontent.com/75193860/212554938-fea07455-9488-4bc5-8f57-08bc65f8d601.png)
+![image](https://user-images.githubusercontent.com/75193860/212554938-fea07455-9488-4bc5-8f57-08bc65f8d601.png)
 
 4. The conveyor belt then moves the balls towards the flywheels a preset distance
     - makes use of same motor encoder value as when balls are intaked
